@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Three_Main_Layers_of_the_Eye.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Three_Main_Layers_of_the_Eye@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Three_Main_Layers_of_the_Eye@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
